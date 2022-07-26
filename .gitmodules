@@ -1,0 +1,3 @@
+[submodule "augment-repo"]
+	path = augment-repo
+	url = https://github.com/TrueshotBarrage/wet-region-segmentation
